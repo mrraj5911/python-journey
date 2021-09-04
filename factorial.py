@@ -6,3 +6,4 @@ def fun(a):
     return result
 a=int(input('enter the number: '))
 print(fun(a))
+for i in range()
