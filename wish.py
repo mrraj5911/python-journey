@@ -1,0 +1,10 @@
+def fun(name,clas,marks=99,age=23):
+    print('student name :',name)
+    print('class name: ',clas)
+    print('marks:',marks)
+    print('age: ',age)
+name=input("enter the name: ")
+clas=input("enter the class: ")
+marks=int(input('enter the marks: '))
+age=int(input('enter the age: '))
+fun(name,clas,marks,age)
